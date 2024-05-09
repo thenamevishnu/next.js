@@ -3,7 +3,7 @@ import { Fragment } from "react"
 const Home = () => {
     return (
         <Fragment>
-            <div className="text-red-700">Hello</div>
+            <div className="flex w-screen h-screen justify-center items-center">Home Page</div>
         </Fragment>
     )
 }
